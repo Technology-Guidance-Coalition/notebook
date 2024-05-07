@@ -1,7 +1,33 @@
-# Emanote Template
+# Technology Guidance Coalition
 
-This is a Git template repository of Markdown notes that are automatically rendered using [Emanote] and hosted on [[GitHub Pages]], while enabling editing in the likes of [Visual Studio Code](https://emanote.srid.ca/start/resources/editors/vscode). For details, see https://github.com/srid/emanote-template.
+:::{.text-xl .my-4}
 
-Any `.md` file (eg: [[GitHub Pages]]) or directory of `.md` files (eg: [[Tutorials]]) you add to the repository will be rendered automatically. For information on all features Emanote supports, see https://emanote.srid.ca/
+:::{class="w-32 float-left mr-8 pt-2"}
+![[static/tgc.png]]
+:::
+Welcome to the TGC Github Pages! I'm still getting things together, but feel
+free to look around while I do.
 
-[Emanote]: https://emanote.srid.ca/
+The TGC is an experimental project in its current state. Over time, I intend to
+gather individuals of many varying opinions, professions, backgrounds, and
+expertise to provide contributions.
+
+## Mission
+
+To facilitate discussions on the ethical, responsible, and practical guidance
+of the development of various technologies.
+
+These include:
+
+- Artificial Intelligence
+- Biometrics & Facial Recognition
+- [Climate Technologies](https://unfccc.int/topics/what-is-technology-development-and-transfer)
+- Robotics
+- Emerging Weapons Technologies
+- Secure Software Engineering
+- Cybersecurity & Cyber Threat Analysis
+- Smart Devices & the Internet of Things
+- Human-Machine Implants & Prostheses
+- Near Field Communications Requirements
+- Cryptocurrencies
+  :::
