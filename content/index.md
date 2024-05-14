@@ -3,7 +3,7 @@
 :::{.text-xl .my-4}
 
 :::{class="w-32 float-left mr-8 pt-2"}
-![[static/tgc.png]]
+![[tgc.png]]
 :::
 Welcome to the TGC Github Pages! I'm still getting things together, but feel
 free to look around while I do.
